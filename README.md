@@ -1,24 +1,23 @@
-<img src="thumbnail.png" alt="thumbnail" width="300"/>
+<img src="https://crocus-urban.org/wp-content/uploads/sites/115/2023/03/CROCUS-Logo_preview_R2.png" alt="thumbnail" width="300"/>
 
-# (Replace_with_your_title) Cookbook
+# Air Quality Sensors Cookbook
 
-[![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
+[![nightly-build](https://github.com/EVS-ATMOS/air-quality-sensors/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/EVS-ATMOS/air-quality-sensors/actions/workflows/nightly-build.yaml)
 [![Binder](http://binder.mypythia.org/badge_logo.svg)](http://binder.mypythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Air Quality Sensor Cookbook covers working with air quality instrumentation at the Argonne Testbed for Multiscale Observational Science (ATMOS). 
 
 ## Motivation
-
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+CROCUS will deploy a wide array of air quality instrumentation throughout Chicago. To do this, testing of these instruments against known standards are needed to understand how they perform across many environmental factors. 
 
 ## Authors
 
-[First Author](@first-author), [Second Author](@second-author), etc. _Acknowledge primary content authors here_
+[Joe O'Brien](@jrobrien91), [Second Author](@second-author), etc. _Acknowledge primary content authors here_
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+<a href="https://github.com/EVS-ATMOS/air-quality-sensors/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=EVS-ATMOS/air-quality-sensors" />
 </a>
 
 ## Structure
@@ -60,10 +59,10 @@ If you are interested in running this material locally on your computer, you wil
 
 (Replace "cookbook-example" with the title of your cookbooks)
 
-1. Clone the `https://github.com/ProjectPythia/cookbook-example` repository:
+1. Clone the `https://github.com/EVS-ATMOS/air-quality-sensors` repository:
 
    ```bash
-    git clone https://github.com/ProjectPythia/cookbook-example.git
+    git clone https://github.com/EVS-ATMOS/air-quality-sensors.git
    ```
 
 1. Move into the `cookbook-example` directory
