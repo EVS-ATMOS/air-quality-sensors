@@ -1,4 +1,4 @@
-name: cookbook-dev
+name: air-quality-sensors-dev
 channels:
   - conda-forge
 dependencies:
