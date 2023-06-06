@@ -1,10 +1,27 @@
 name: air-quality-sensors-dev
 channels:
   - conda-forge
+  - defaults
+  - pyviz
 dependencies:
   - jupyter-book
   - jupyterlab
   - jupyter_server<2
+  - arm_pyart
+  - act-atmos
+  - matplotlib
+  - cartopy
+  - numpy
+  - dask
+  - distributed
+  - xarray
+  - pandas<2.0
+  - fiona
+  - hvplot
+  - imageio
   - pip
   - pip:
-      - sphinx-pythia-theme
+    - -r doc-requirements.txt
+    - ambient-api
+    - sage-data-client
+    - nexradaws
