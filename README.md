@@ -12,7 +12,7 @@ CROCUS will deploy a wide array of air quality instrumentation throughout Chicag
 
 ## Authors
 
-[Joe O'Brien](@jrobrien91), [Second Author](@second-author), etc. _Acknowledge primary content authors here_
+[Joe O'Brien](@jrobrien91), [Jake Vile](@jacobvile), etc. _Acknowledge primary content authors here_
 
 ### Contributors
 
