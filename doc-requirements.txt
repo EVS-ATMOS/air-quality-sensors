@@ -1,0 +1,12 @@
+jupyter-book
+jsonschema>3
+jupyterlab
+ghp-import
+hvplot
+cartopy
+xarray
+act-atmos
+metpy
+numpy
+pandas
+sage-data-client
