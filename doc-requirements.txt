@@ -10,3 +10,4 @@ metpy
 numpy
 pandas
 sage-data-client
+sphinx-pythia-theme
