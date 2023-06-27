@@ -25,3 +25,4 @@ dependencies:
     - ambient-api
     - sage-data-client
     - nexradaws
+    - sphinx-pythia-theme
