@@ -1,6 +1,16 @@
 format: jb-book
 root: README
 parts:
-  - caption: Introduction
+  - caption: Work with Ecotech Serinus Sensors
     chapters:
-      - file: notebooks/notebook-template
+      - file: notebooks/toybox
+  - caption: Work with EPA dataset
+    chapters:
+      - file: notebooks/EPA_data
+  - caption: Work pertaining to Chicago Wildfire Event
+    chapters:
+      - file: notebooks/New_EPA_data
+      - file: notebooks/chicago_wildifre
+  - caption: Creating some Windroses
+    chapters:
+      - file: notebooks/windrose
