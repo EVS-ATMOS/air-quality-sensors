@@ -14,3 +14,8 @@ parts:
   - caption: Creating some Windroses
     chapters:
       - file: notebooks/windrose
+  - caption: Analyzing Data from various days/deployments
+    chapters:
+      - file: notebooks/NEIU_Deployment
+      - file: notebooks/independence_day_data
+      - file: notebooks/wildfire_smoke_july
